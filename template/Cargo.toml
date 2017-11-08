@@ -1,0 +1,7 @@
+[package]
+authors = ["{{{author}}}"]
+name = "{{snake project_name}}"
+description = "{{project_description}}"
+version = "0.1.0"
+
+[dependencies]
